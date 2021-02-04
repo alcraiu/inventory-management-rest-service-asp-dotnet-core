@@ -16,3 +16,4 @@ This repository contains the inventory management REST service, built with ASP.N
 * Change the connection string in the appsettings.json file that points to your SQL Server
 * Run the project.
 
+https://www.syncfusion.com/blogs/post/how-to-build-crud-rest-apis-with-asp-net-core-3-1-and-entity-framework-core-create-jwt-tokens-and-secure-apis.aspx
